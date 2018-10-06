@@ -1,4 +1,4 @@
-# audioDurartion
+# audioDuration
 Get the audio file duration form link.
 
 # install ffmpeg in your machine
